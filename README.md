@@ -30,3 +30,5 @@ Replace <target_ip> with the IP address you want to scan.
 ```
 python3 portScanner.py 192.168.1.1
 ```
+
+![upon_running](image.png)
