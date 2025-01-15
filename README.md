@@ -35,7 +35,7 @@ Replace <target_ip> with the IP address you want to scan.
 python3 portScanner.py 192.168.1.1
 ```
 
-![upon_running](image.png)
+![upon_running](images/image.png)
 
 2. Scan a specific port:
 
@@ -47,3 +47,5 @@ python3 portScanner.py 192.168.1.1
 # Scan specific port
 python3 portScanner.py 192.168.1.1 -p 80
 ```
+
+![last-one](images/exhaustive.png)
